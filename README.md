@@ -1,4 +1,5 @@
-### Hi there 👋
+<h3>Hello, I'm Jonas Araldi! 👋</h3>
+<p>I'm a Computer Science graduate and have over 9 years of experience in software solutions development. <br/>Currently, I'm pursuing a postgraduate degree in Software Architecture at FIAP. <br/>I am experienced in the .NET stack and I'm currently learning Golang.</p>
 
 <!--
 **jonasaraldi/jonasaraldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
