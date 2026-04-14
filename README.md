@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hello, I'm Jonas Araldi! 👋</h3>
-  <p>I'm a Computer Science graduate and have over 9 years of experience in software solutions development. <br/>Currently, I'm pursuing a postgraduate degree in Software Architecture at FIAP. <br/>I am experienced in the .NET stack and I'm currently learning Golang.</p>
+  <p>I am an experienced software engineer with over 10 years of experience in the .NET/C# stack. I hold a degree in Computer Science from UNIVALI and a postgraduate qualification in Software Architecture from FIAP.</p>
 </div
   
 <!--
